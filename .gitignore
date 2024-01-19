@@ -1,0 +1,6 @@
+venv/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.vscode/
+data/creditcard.csv
